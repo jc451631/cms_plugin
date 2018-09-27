@@ -1,2 +1,2 @@
 # cms_plugin
-Plugin for subscriber cound
+Plugin for subscriber count
